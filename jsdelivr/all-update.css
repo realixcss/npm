@@ -2798,7 +2798,7 @@ textarea.form-control {
           -webkit-transform: translateY(-50%);
           -ms-transform: translateY(-50%);
           transform: translateY(-50%);
-          font-family: 'icomoon'; }
+          font-family: 'realixicon'; }
       .site-nav .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
         opacity: 0;
@@ -2962,8 +2962,8 @@ textarea.form-control {
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
         font-size: 14px;
         z-index: 20;
-        font-family: "icomoon";
-        content: "\e313";
+        font-family: "realixicon";
+        content: "\ea50";
         position: absolute;
         top: 50%;
         left: 50%;
